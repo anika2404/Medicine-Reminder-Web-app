@@ -3,7 +3,7 @@ A simple and interactive voice-based medicine reminder application that helps us
 It’s fully offline-capable, uses local storage for data persistence, and includes voice-enabled reminders powered by the Web Speech API.
 
 
- Features 
+ # Features 
 
 - Add and Manage Reminders – Enter medicine name, dosage, and time.
 
@@ -15,7 +15,7 @@ It’s fully offline-capable, uses local storage for data persistence, and inclu
 
 -Edit / Delete Reminders – Manage your medicines easily anytime.
 
-How It Works
+# How It Works
 
 User adds medicine details (name, dosage, and time).
 
