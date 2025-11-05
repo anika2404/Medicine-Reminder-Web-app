@@ -13,19 +13,19 @@ It’s fully offline-capable, uses local storage for data persistence, and inclu
 
 - Auto Reminder Alerts – Triggers voice and visual notifications at set times.
 
--Edit / Delete Reminders – Manage your medicines easily anytime.
+- Edit / Delete Reminders – Manage your medicines easily anytime.
 
 # How It Works
 
-User adds medicine details (name, dosage, and time).
+1.User adds medicine details (name, dosage, and time).
 
-App saves the reminder data in local storage.
+2.App saves the reminder data in local storage.
 
-When the set time arrives:
+3.When the set time arrives:
 
 A browser notification and voice reminder are triggered.
 
-The voice reminder says something like:
+ex:-The voice reminder says something like:
 “It’s time to take your Paracetamol — 1 tablet.”
 
 Reminders stay saved even after refreshing or closing the browser.
